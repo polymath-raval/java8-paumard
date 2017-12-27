@@ -1,6 +1,6 @@
-package chapter1;
+package chapter1.Spliterator;
 
-import chapter1.model.Person;
+import chapter1.Spliterator.model.Person;
 import java.util.Spliterator;
 import java.util.function.Consumer;
 

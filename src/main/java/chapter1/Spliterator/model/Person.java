@@ -1,4 +1,4 @@
-package chapter1.model;
+package chapter1.Spliterator.model;
 
 import lombok.Builder;
 import lombok.Value;
