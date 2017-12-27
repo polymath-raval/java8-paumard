@@ -8,7 +8,7 @@ public class PersonSpliterator implements Spliterator<Person> {
 
   private Spliterator<String> baseSpliterator;
 
-  PersonSpliterator(Spliterator<String> spliterator) {
+  public PersonSpliterator(Spliterator<String> spliterator) {
     this.baseSpliterator = spliterator;
   }
 
